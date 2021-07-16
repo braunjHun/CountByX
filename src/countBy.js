@@ -1,9 +1,7 @@
 class CountBy {
     
     countBy(multiplier, times) {
-        var retArray = [];
-        retArray[0] = 1;
-        return retArray;
+        return  [1];
     }
 }
   
