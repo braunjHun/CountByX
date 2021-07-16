@@ -37,4 +37,17 @@ countBy(2,5) === [2,4,6,8,10]
         1. RED
         1. GREEN
         1. Refactor
-    * Comment:
+    * Comment: 6 minutes left from the first pomodoro. I start to plan the next session
+1. Pomodoro session:
+    * Plan:  
+        * ✔ plan second pomodoro
+        * ✔ create next test case
+        * 📃 cover the first test case with implementation
+        * 📃 check for possible refactoring
+        * 📃 create next test case
+        * 📃 cover the first test case with implementation
+        * 📃 check for possible refactoring
+    * Commit log:
+        1. RED
+
+    * Comment: 
