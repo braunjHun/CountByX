@@ -1,13 +1,18 @@
 class CountBy {
     
-    countBy(multiplier, times) {
+    countBy(multiplicand, times) {
         var returnArray = [];
 
         for (let i=0;i<times;i++){
-          returnArray[i]=(i+1)*multiplier;
+          var multiplier = i+1;
+          returnArray[i]=this.multiply(multiplier,multiplicand);
         }
         
         return returnArray;
+    }
+
+    multiply(multiplier, multiplicand) {
+        return multiplier*multiplicand;
     }
 }
   
