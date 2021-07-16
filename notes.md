@@ -44,12 +44,13 @@ countBy(2,5) === [2,4,6,8,10]
         * ✔ create next test case
         * ✔ cover the first test case with implementation
         * ✔ check for possible refactoring
-        * 📃 create next test case
+        * ✔ create next test case
         * 📃 cover the first test case with implementation
         * 📃 check for possible refactoring
     * Commit log:
         1. RED
         1. GREEN
         1. Refactor
+        1. RED
 
     * Comment: 
