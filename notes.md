@@ -29,10 +29,12 @@ countBy(2,5) === [2,4,6,8,10]
     * Plan:  
         * ✔ plan first pomodoro activities
         * ✔ Create note.md and add general information 
-        * 📃 create test.js and write first test case
-        * 📃 cover the first test case with implementation
+        * ✔ create test.js and write first test case
+        * ✔ cover the first test case with implementation
         * 📃 check for possible refactoring
     * Commit log:
         1. commit note.md and first Pomodoro plan
-
-    * Comment: 
+        1. RED
+        1. GREEN
+        
+    * Comment:
