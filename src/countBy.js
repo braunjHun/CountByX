@@ -5,6 +5,7 @@ class CountBy {
             var multiplier = i + 1;
             returnArray[i] = this.multiply(multiplier, multiplicand);
         }
+        
         return returnArray;
     }
 
