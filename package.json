@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --coverage",
     "complexity": "cr src",
+    "tslint": "tslint -t json -o tslint-report.json --project . --force",
     "prepare": "husky install"
   },
   "keywords": [],
