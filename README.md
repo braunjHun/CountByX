@@ -1,3 +1,9 @@
+
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=braunjHun_CountByX&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=braunjHun_CountByX)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=braunjHun_CountByX&metric=coverage)](https://sonarcloud.io/summary/new_code?id=braunjHun_CountByX)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=braunjHun_CountByX&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=braunjHun_CountByX)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=braunjHun_CountByX&metric=bugs)](https://sonarcloud.io/summary/new_code?id=braunjHun_CountByX)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=braunjHun_CountByX&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=braunjHun_CountByX)
 # Count by X
 https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/javascript
 To set up the project, you need node installed.
