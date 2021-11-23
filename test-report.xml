@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
-  <file path="C:\work\xpfarm\kata\CountByX\src\test.js">
-    <testCase name="Test Count by X functions Basic multiplication" duration="4"/>
+  <file path="C:\work\xpfarm\kata\CountByX\test\test.js">
+    <testCase name="Test Count by X functions Basic multiplication" duration="17"/>
     <testCase name="Test Count by X functions Multiplication ten times" duration="1"/>
     <testCase name="Test Count by X functions Multiplication five times with two" duration="1"/>
   </file>

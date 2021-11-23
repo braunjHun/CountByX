@@ -1,4 +1,4 @@
-const { CountBy } = require('./countBy');
+const { CountBy } = require('../src/countBy');
 
 describe('Test Count by X functions', () => {
   it('Basic multiplication', () => {
