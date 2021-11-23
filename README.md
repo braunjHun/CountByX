@@ -1,4 +1,5 @@
 
+[![Build Status](https://app.travis-ci.com/braunjHun/CountByX.svg?branch=master)](https://app.travis-ci.com/braunjHun/CountByX)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=braunjHun_CountByX&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=braunjHun_CountByX)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=braunjHun_CountByX&metric=coverage)](https://sonarcloud.io/summary/new_code?id=braunjHun_CountByX)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=braunjHun_CountByX&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=braunjHun_CountByX)
