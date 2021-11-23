@@ -23,6 +23,7 @@
     "jest-sonar-reporter": "^2.0.0",
     "ts-jest": "^25.0.0",
     "tslint": "^6.0.0",
+    "typescript": "^3.7.5",
     "prettier": "^2.4.1",
     "husky": "^6.0.0"
   }
