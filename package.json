@@ -1,32 +1,26 @@
 {
-  "name": "CountByX",
+  "name": "yellow-graduation",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "complexity": "cr src",
     "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@commitlint/config-conventional": "^15.0.0",
-    "eslint": "^7.32.0",
+    "complexity-report": "^2.0.0-alpha",
+    "eslint": "^7.29.0",
     "eslint-config-node": "^4.1.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-jest": "^24.4.2",
+    "eslint-plugin-jest": "^24.3.6",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "husky": "^6.0.0",
-    "jest": "^25.1.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "jest": "^27.0.5",
     "jest-sonar-reporter": "^2.0.0",
-    "prettier": "^2.4.1"
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
+    "prettier": "^2.3.2",
+    "husky": "^6.0.0"
   }
 }

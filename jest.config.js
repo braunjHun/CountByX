@@ -1,4 +1,4 @@
 module.exports = {
-    collectCoverage: true,
-    testResultsProcessor: 'jest-sonar-reporter'
-  };
+  collectCoverage: true,
+  testResultsProcessor: 'jest-sonar-reporter'
+};
