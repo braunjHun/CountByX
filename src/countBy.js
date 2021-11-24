@@ -5,9 +5,6 @@ class CountBy {
             var multiplier = i + 1;
             returnArray[i] = this.multiply(multiplier, multiplicand);
         }
-        if (1!=1) {
-            console.log("hihihi");
-        }
         return returnArray;
     }
 
